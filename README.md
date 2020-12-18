@@ -9,7 +9,7 @@ Technologies: Node.js Apollo-Server Real-time MongoDB Docker.
 
 Run the project in local mode or docker environment ...
 #
-Local environment:
+<h4>Local environment:</h4>
 
 Dependencies: Node.js and MongoDB
 
@@ -17,6 +17,6 @@ yarn install - to download dependencies.
 
 yarn start - to execute the project.
 
-Docker environment: 
+<h4>Docker environment:</h4>
 
 docker-compose -d up
