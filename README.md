@@ -1,23 +1,22 @@
 # GraphQL and Docker
 
 
-<h4>An elementary approach to GraphQL and Docker.
+<h3>An elementary approach to GraphQL and Docker.</h3>
 
 In this repository you will find a basic implementation of a GraphQL API.
 
 Technologies: Node.js Apollo-Server Real-time MongoDB Docker.
 
-Run the project in local mode or docker environment ...</h4>
-
+Run the project in local mode or docker environment ...
+#
 Local environment:
 
 Dependencies: Node.js and MongoDB
 
-<h5>yarn install - to download dependencies.
+yarn install - to download dependencies.
 
-yarn start - to execute the project.</h5>
-
+yarn start - to execute the project.
 
 Docker environment: 
 
-<h5>docker-compose -d up</h5>
+docker-compose -d up
