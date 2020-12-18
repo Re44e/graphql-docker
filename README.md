@@ -20,4 +20,4 @@ yarn start - to execute the project.</h5>
 
 Docker environment: 
 
-<h5>docker-compose -d up</h5>
+<h5>docker-compose up -d</h5>
