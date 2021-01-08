@@ -1,4 +1,4 @@
-# GraphQL and Docker
+<h2> GraphQL and Docker </h2>
 
 
 <h3>An elementary approach to GraphQL and Docker.</h3>
